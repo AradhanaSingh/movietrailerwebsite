@@ -1,6 +1,7 @@
 # movietrailerwebsite
-Prerequisite 
+Prerequisite
 1. Clone Movie Trailer Website repository. It should contain 5 files(fresh_tomatoes.py,movie.py,moviedatabase.py,README.txt,run.py)
+
 2. Make sure Python2.7 is installed on the system where this code will be run
 
 Steps
