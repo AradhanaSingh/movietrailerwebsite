@@ -12,4 +12,5 @@ Steps
 - python run.py
 
 Expected Result
-- Webpage of movie trailer website would open
+- Movie trailer website would open
+- User can view trailer and description of movies
